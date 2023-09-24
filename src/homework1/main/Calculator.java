@@ -1,4 +1,4 @@
-package homework1;
+package homework1.main;
 
 public class Calculator {
     public static double calculateDiscount(double purchaseAmount, int discountAmount) {
