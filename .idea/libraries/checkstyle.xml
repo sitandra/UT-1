@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="checkstyle" type="repository">
+    <properties maven-id="checkstyle:checkstyle:RELEASE" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/checkstyle-4.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/antlr-2.7.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-beanutils-core-1.7.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-collections-2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-logging-1.0.3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -8,6 +8,7 @@
       <sourceFolder url="file://$MODULE_DIR$/src/homework2/test" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/src/homework3/test" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/src/homework4/test" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/homework5/test" isTestSource="true" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
@@ -23,6 +24,16 @@
     <orderEntry type="library" exported="" name="junit.platform.commons" level="project" />
     <orderEntry type="library" exported="" name="junit.jupiter.api" level="project" />
     <orderEntry type="library" exported="" name="junit.jupiter.params" level="project" />
-    <orderEntry type="library" name="mockito.core" level="project" />
+    <orderEntry type="library" exported="" name="mockito.core" level="project" />
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/annotations-24.0.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="library" exported="" name="checkstyle" level="project" />
   </component>
 </module>
